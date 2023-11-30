@@ -1,7 +1,7 @@
-
+import styels from './about.module.css'
 const about = () => {
   return (
-    <div>
+    <div className={styels.conteiner}>
 
     </div>
   )
