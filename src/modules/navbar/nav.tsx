@@ -2,7 +2,7 @@ import React from 'react'
 import styles from "./nav.module.css"
 const nav = () => {
   return (
-    <div className='stules.counteiner'>nav</div>
+    <div className={styles.conteiner}>nav</div>
   )
 }
 
