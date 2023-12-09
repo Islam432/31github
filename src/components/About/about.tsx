@@ -4,7 +4,7 @@ const about = () => {
     <div className={styels.conteiner}>
      <div>
       hello
-      p
+      
      </div>
     </div>
   )
