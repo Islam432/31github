@@ -3,7 +3,8 @@ import styles from "./nav.module.css"
 const nav = () => {
   return (
     <div className={styles.conteiner}>
-      <p>jhjk</p>
+      <p>\<div>
+        hola</div></p>
     </div>
   )
 }
