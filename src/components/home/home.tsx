@@ -4,7 +4,7 @@ const home = () => {
   return (
     <div className='conteiner'>
         <div>
-            <p>hoola</p>
+            <p>sdasd</p>
         </div>
     </div>
   )
