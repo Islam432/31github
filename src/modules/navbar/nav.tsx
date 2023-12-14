@@ -3,7 +3,7 @@ import styles from "./nav.module.css"
 const nav = () => {
   return (
     <div className={styles.conteiner}>
-      <p>\<div className='hola'>
+      <p className='hola'>\<div className='hend'>
         hola</div></p>
     </div>
   )
