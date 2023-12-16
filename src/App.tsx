@@ -7,9 +7,9 @@ function App() {
   return (
     <>
     <div className='conteiner'>
-<div>
+<div className='hello'>
   hola
-</div>
+</div >
 <p>question</p>
     </div>
     </>
