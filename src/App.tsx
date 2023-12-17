@@ -8,8 +8,7 @@ function App() {
     <>
     <div className='conteiner'>
 <div className='hello'>
-  hola
-</div >
+ are </div >
 <p>question</p>
     </div>
     </>
